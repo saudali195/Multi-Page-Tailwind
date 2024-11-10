@@ -6,7 +6,7 @@ export default function Home() {
         <div className="w-full text-center text-[30px] font-bold pl-4 space-y-4">
           <div className="marquee">
             <p className="text-white">Hi,</p>
-            <p className="text-white">I am <span className="box text-white">Muhammad Saad Raza</span></p>
+            <p className="text-white">I am <span className="box text-white">Saud Muhammad ALi aka XYRON, THE Developer and GAMER</span></p>
             <h1 className="text-white">Frontend Developer</h1>
           </div>
         </div>
